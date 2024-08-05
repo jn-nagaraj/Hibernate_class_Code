@@ -1,0 +1,1 @@
+# Hibernate_class_Code
